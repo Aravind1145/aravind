@@ -1,2 +1,2 @@
-s1=input()
-print(s1.swapcase())
+ss1=input()
+print(ss1.swapcase())
